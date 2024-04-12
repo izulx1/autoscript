@@ -1,0 +1,50 @@
+————————————————————————————————————————
+               INFO SCRIPT               
+————————————————————————————————————————
+        Port Info
+ - Open SSH                : 22, 2222
+ - Dropbear                : 109, 143
+ - SSH Websocket SSL       : 443
+ - SSH Websocket           : 80
+ - SSH Udp Custom          : 1-65535
+ - NoobzVpns TCP_SSL       : 9443
+ - NoobzVpns TCP_STD       : 8880
+ - OpenVPN SSL             : 443
+ - OpenVPN Websocket SSL   : 443
+ - OpenVPN TCP             : 443, 1194
+ - OpenVPN UDP             : 2200
+ - Nginx Webserver         : 89
+ - Haproxy Loadbalancer    : 443, 80
+ - DNS Server              : 443, 53
+ - DNS Client              : 443, 88
+ - OpenVPN Websocket SSL   : 443
+ - XRAY Vmess TLS          : 443
+ - XRAY Vmess gRPC         : 443
+ - XRAY Vmess none TLS     : 80 
+ - XRAY Vless TLS          : 443
+ - XRAY Vless gRPC         : 443
+ - XRAY Vless none TLS     : 80 
+ - Trojan gRPC             : 443
+ - Trojan TLS              : 443
+ - Trojan none TLS         : 80
+ - Shadowsocks WS          : 443
+ - All Port Websocket Direct: 
+ - No SSL: 8080, 2052, 2082, 2086, 2095
+ - SSL   : 2053, 2083, 2096, 8443
+————————————————————————————————————————
+        Service Info
+ - BadVPN 1 : 7100
+ - BadVPN 2 : 7200
+ - BadVPN 3 : 7300
+ - BadVPN 4 : 7400
+ - BadVPN 5 : 7500
+ - Auto Reboot On : 03.00 Am
+ - Auto Clear Log Every 15 Minutes
+ - Auto Delete User Exp Every 02.00 Am
+ - Proxy Squid             : 3128
+————————————————————————————————————————
+        Backup & Restore Info 
+ - Backup/restore With Bot Telegram [ON]
+ - Backup/restore With Google Drive [ON] 
+ - Auto Backup every 6 hours [ON]
+————————————————————————————————————————
