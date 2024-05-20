@@ -30,7 +30,7 @@
        "streamSettings":{
          "network": "ws",
             "wsSettings": {
-                "path": "/vmes"
+                "path": "/vmess"
           }
         }
      },
@@ -50,7 +50,7 @@
        "streamSettings":{
          "network": "grpc",
             "grpcSettings": {
-                "serviceName": "vmess"
+                "serviceName": "vmess-grpc"
           }
         }
      }
