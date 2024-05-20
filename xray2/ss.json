@@ -31,7 +31,7 @@
        "streamSettings":{
           "network": "ws",
              "wsSettings": {
-               "path": "/shadowsock"
+               "path": "/shadowsocks"
            }
         }
      },	
@@ -52,7 +52,7 @@
     "streamSettings":{
      "network": "grpc",
         "grpcSettings": {
-           "serviceName": "shadowsocks"
+           "serviceName": "shadowsocks-grpc"
           }
        }
     }	
