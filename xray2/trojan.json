@@ -31,7 +31,7 @@
        "streamSettings":{
            "network": "ws",
            "wsSettings": {
-               "path": "/troja"
+               "path": "/trojan"
             }
          }
      },
@@ -51,7 +51,7 @@
          "streamSettings":{
          "network": "grpc",
            "grpcSettings": {
-               "serviceName": "trojan"
+               "serviceName": "trojan-grpc"
          }
       }
    }
