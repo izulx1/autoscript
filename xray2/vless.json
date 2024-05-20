@@ -50,7 +50,7 @@
           "streamSettings":{
              "network": "grpc",
              "grpcSettings": {
-                "serviceName": "vless"
+                "serviceName": "vless-grpc"
            }
         }
      }
