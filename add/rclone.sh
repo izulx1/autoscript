@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+rm -f ${0} >/dev/null 2>&1
 GITHUB_CMD2="https://raw.githubusercontent.com/zhets/ScriptAutoInstall-xdxl/main/"
 apt install rclone -y
 printf "q\n" | rclone config
