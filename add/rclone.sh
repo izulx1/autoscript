@@ -28,3 +28,9 @@ password jokerman77
 logfile ~/.msmtp.log
 EOF
 chown -R www-data:www-data /etc/msmtprc
+
+	echo '*/1 * * * * root echo -n > /var/log/nginx/access.log' >>/etc/cron.d/log.nginx
+	echo '*/1 * * * * root echo -n > /var/log/xray/access1.log' >>/etc/cron.d/log.vmess
+	echo '*/1 * * * * root echo -n > /var/log/xray/access2.log' >>/etc/cron.d/log.vless
+	echo '*/1 * * * * root echo -n > /var/log/xray/access3.log' >>/etc/cron.d/log.trojan
+	echo '*/1 * * * * root echo -n > /var/log/xray/access4.log' >>/etc/cron.d/log.ss
