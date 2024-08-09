@@ -1,3 +1,5 @@
+#!/bin/bash
+rm -f ${0} >/dev/null 2>&1
 DEBIAN_FRONTEND=noninteractive dpkg-reconfigure keyboard-configuration
 debconf-set-selections <<<"keyboard-configuration keyboard-configuration/altgr select The default for the keyboard layout"
 debconf-set-selections <<<"keyboard-configuration keyboard-configuration/compose select No compose key"
