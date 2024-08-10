@@ -1,8 +1,9 @@
-<p style="text-align:center;"><b>
-    <font color="#800080">▬</font><font color="#8A2BE2">▬</font><font color="#9370DB">▬</font><font color="#7B68EE">▬</font><font color="#7B68EE">▬ஜ۩۞۩ஜ▬</font><font color="#7B68EE">▬</font><font color="#9370DB">▬</font><font color="#8A2BE2">▬</font><font color="#800080">▬</font></font><br>
-    <font color="#800080">─── AutoScript By XDTunnel ───</font><br>
-    <font color="#8A2BE2">Group : t.me/xd_tunnel </font><br>
-    <font color="#9370DB">Channel : t.me/xdxl_store</font><br>
-    <font color="#8A2BE2">Whatsapp : wa.me/6285935195701</font><br>
-    <font color="#800080">▬</font><font color="#8A2BE2">▬</font><font color="#9370DB">▬</font><font color="#7B68EE">▬</font><font color="#7B68EE">▬ஜ۩۞۩ஜ▬</font><font color="#7B68EE">▬</font><font color="#9370DB">▬</font><font color="#8A2BE2">▬</font><font color="#800080">▬</font></font><br></b>
-</p>
+<h5 style="text-align:center;"><font color="red">XDXL</font> <font color="#FFFFFF">STORE</font><br>
+<font color="lime">━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font>
+<b><p style="text-align:center"🛡️<b><i><font color="yellow">⚠️Peringatan!!⚠️</b></i></font>
+<b><font color="red"><p style="text-align:center"×</b></font> <font color="red">GUNAKAN DENGAN BIJAK</font> <b><font color="red"><p style="text-align:center"×</b></font>
+<b><font color="red"><p style="text-align:center"×</b></font> <font color="red">NO SPAMING</font><b> <font color="red"><p style="text-align:center"×</b></font>
+<b><font color="red"><p style="text-align:center"×</b></font> <font color="red">NO HACKING</font><b> <font color="red"><p style="text-align:center"×</b></font>
+<b><font color="red"><p style="text-align:center"×</b></font> <font color="red">NO CARDING</font><b> <font color="red"><p style="text-align:center"×</b></font>
+<b><font color="red"><p style="text-align:center"×</b></font> <font color="red"></font><b> <font color="lime"><b><font color="lime">━━━━━━━━━━━━━━━━━━━━━━━━━━</b></font>
+<br><font color="#fff">Order Config : wa.me/6285935195701</font>
